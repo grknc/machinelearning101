@@ -110,15 +110,7 @@ When creating a machine learning project, it is not always a case that we come a
 Data preprocessing is required tasks for cleaning the data and making it suitable for a machine learning model which also increases the accuracy and efficiency of a machine learning model.
 
 - Getting the dataset
-    - To create a machine learning model, the first thing we required is a dataset as a machine learning model completely works on data. The collected data for a particular problem in a proper format is known as the dataset.
-
 - Importing libraries
-
-In order to perform data preprocessing using Python, we need to import some predefined Python libraries. These libraries are used to perform some specific jobs.
-    - Numpy
-
-
-
 - Importing datasets
 - Finding Missing Data
 - Encoding Categorical Data
