@@ -77,7 +77,7 @@ We check for the accuracy of our model by providing a test dataset to it.
 
 Testing the model determines the percentage accuracy of the model as per the requirement of project or problem.
 
-## How to Get Datasets
+## A. How to Get Datasets
 
 The key to success in the field of machine learning or to become a great data scientist is to practice with different types of datasets. But discovering a suitable dataset for each kind of machine learning project is a difficult task. 
 
@@ -99,3 +99,20 @@ A tabular dataset can be understood as a database table or matrix, where each co
 - Microsoft Datasets  - https://msropendata.com/.
 - Awesome Public Dataset Collection - https://github.com/awesomedata/awesome-public-datasets.
 - Scikit-learn dataset  - https://scikit-learn.org/stable/datasets/index.html.
+
+
+## B. Data Pre-processing
+
+Data preprocessing is a process of preparing the raw data and making it suitable for a machine learning model. It is the first and crucial step while creating a machine learning model.
+
+When creating a machine learning project, it is not always a case that we come across the clean and formatted data. And while doing any operation with data, it is mandatory to clean it and put in a formatted way. 
+
+Data preprocessing is required tasks for cleaning the data and making it suitable for a machine learning model which also increases the accuracy and efficiency of a machine learning model.
+
+- Getting the dataset
+- Importing libraries
+- Importing datasets
+- Finding Missing Data
+- Encoding Categorical Data
+- Splitting dataset into training and test set
+- Feature scaling
