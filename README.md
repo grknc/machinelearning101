@@ -101,7 +101,7 @@ A tabular dataset can be understood as a database table or matrix, where each co
 - Scikit-learn dataset  - https://scikit-learn.org/stable/datasets/index.html.
 
 
-## B. Data Pre-processing
+## B. Data Preprocessing
 
 Data preprocessing is a process of preparing the raw data and making it suitable for a machine learning model. It is the first and crucial step while creating a machine learning model.
 
@@ -110,7 +110,12 @@ When creating a machine learning project, it is not always a case that we come a
 Data preprocessing is required tasks for cleaning the data and making it suitable for a machine learning model which also increases the accuracy and efficiency of a machine learning model.
 
 - Getting the dataset
+ASDASDASD
+
 - Importing libraries
+
+
+
 - Importing datasets
 - Finding Missing Data
 - Encoding Categorical Data
