@@ -34,3 +34,44 @@ Below are some most trending real-world applications of Machine Learning:
 
 ## Machine Learning Cycle
 
+![This is an image](https://scontent.fsaw2-3.fna.fbcdn.net/v/t39.30808-6/274730526_7181100061962801_5417619223200454114_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeFFXv-pxi0KF_bnZTAbiIBK8kL41MSEHQfyQvjUxIQdB30AgI_FqHw8Htd14F_JPsIA8oEgJhlGxF5GXNt52FWx&_nc_ohc=OuFPr5ml1RQAX87HLLZ&_nc_ht=scontent.fsaw2-3.fna&oh=00_AT_lm4R8Izf3z_3qJAhjS8XYmpHqnsCcCct0zjAQP4wpmg&oe=621DE72E)
+
+#### 1.Gathering Data
+
+- Identify various data sources
+- Collect data
+- Integrate the data obtained from different sources
+
+#### 2.Data Preparation
+
+- Data exploration
+- Data pre-processing
+
+
+#### 3.Data Wrangling
+
+Data wrangling is the process of cleaning and converting raw data into a useable format.
+
+- Missing values
+- Duplicate data
+- Invalid data
+- Noise
+
+#### 4.Analyse the Data
+
+- Selection of analytical techniques
+- Building models
+- Review the result
+
+#### 5.Model Training
+
+We train our model to improve its performance for better outcome of the problem.
+
+We use datasets to train the model using various machine learning algorithms. 
+
+#### 6.Model Testing
+
+We check for the accuracy of our model by providing a test dataset to it.
+
+Testing the model determines the percentage accuracy of the model as per the requirement of project or problem.
+
