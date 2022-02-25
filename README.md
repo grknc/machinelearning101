@@ -115,4 +115,4 @@ Data preprocessing is required tasks for cleaning the data and making it suitabl
 - Finding Missing Data
 - Encoding Categorical Data
 - Splitting dataset into training and test set
-- Feature scaling
+- Feature scales
