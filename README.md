@@ -23,3 +23,14 @@ The accuracy of predicted output depends upon the amount of data, as the huge am
 
 
 ![This is an image](https://static.javatpoint.com/tutorial/machine-learning/images/introduction-to-machine-learning2.png)
+
+
+## The Applications of Machine Learning 
+
+Below are some most trending real-world applications of Machine Learning:
+
+![This is an image](https://static.javatpoint.com/tutorial/machine-learning/images/applications-of-machine-learning.png)
+
+
+## Machine Learning Cycle
+
