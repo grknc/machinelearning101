@@ -59,6 +59,8 @@ Data wrangling is the process of cleaning and converting raw data into a useable
 
 #### 4.Analyse the Data
 
+It starts with the determination of the type of the problems, where we select the machine learning techniques such as Classification, Regression, Cluster analysis, Association, etc. then build the model using prepared data, and evaluate the model.
+
 - Selection of analytical techniques
 - Building models
 - Review the result
