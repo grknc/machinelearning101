@@ -77,3 +77,25 @@ We check for the accuracy of our model by providing a test dataset to it.
 
 Testing the model determines the percentage accuracy of the model as per the requirement of project or problem.
 
+## How to Get Datasets
+
+The key to success in the field of machine learning or to become a great data scientist is to practice with different types of datasets. But discovering a suitable dataset for each kind of machine learning project is a difficult task. 
+
+1.Types of data in datasets
+
+- Numerical data:Such as price etc.
+- Categorical data:Such as  True/False,Yes/No, Red/yellow, etc.
+- Ordinal data: These data are similar to categorical data but can be measured on the basis of comparison.
+
+A tabular dataset can be understood as a database table or matrix, where each column corresponds to a particular variable, and each row corresponds to the fields of the dataset. The most supported file type for a tabular dataset is "Comma Separated File," or CSV. But to store a "tree-like data," we can use the JSON file more efficiently.
+
+
+2. Some popular sources for ML Datasets
+
+- Google's Dataset Search Engine -  https://toolbox.google.com/datasetsearch.
+- UCI Machine Learning Repository - https://archive.ics.uci.edu/ml/index.php.
+- Kaggle Datasets - https://www.kaggle.com/datasets.
+- Datasets via AWS - https://registry.opendata.aws/.
+- Microsoft Datasets  - https://msropendata.com/.
+- Awesome Public Dataset Collection - https://github.com/awesomedata/awesome-public-datasets.
+- Scikit-learn dataset  - https://scikit-learn.org/stable/datasets/index.html.
