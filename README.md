@@ -114,6 +114,9 @@ Data preprocessing is required tasks for cleaning the data and making it suitabl
 
 - Importing libraries
 
+In order to perform data preprocessing using Python, we need to import some predefined Python libraries. These libraries are used to perform some specific jobs.
+    - Numpy
+
 
 
 - Importing datasets
