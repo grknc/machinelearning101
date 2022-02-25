@@ -110,7 +110,7 @@ When creating a machine learning project, it is not always a case that we come a
 Data preprocessing is required tasks for cleaning the data and making it suitable for a machine learning model which also increases the accuracy and efficiency of a machine learning model.
 
 - Getting the dataset
-    - ASDASDASD
+    - To create a machine learning model, the first thing we required is a dataset as a machine learning model completely works on data. The collected data for a particular problem in a proper format is known as the dataset.
 
 - Importing libraries
 
